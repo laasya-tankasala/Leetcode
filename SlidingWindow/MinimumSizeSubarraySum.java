@@ -18,7 +18,7 @@ class MinimumSizeSubarraySum{
         System.out.println( minSizeSubarray(target, nums));
     }
 
-    //using two pointers or sliding window
+    //using two pointers or sliding window - time O(n) and space O(1)
     static int minSizeSubarray(int target, int[] nums){
 
         int min = Integer.MAX_VALUE;
