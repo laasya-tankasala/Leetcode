@@ -1,2 +1,3 @@
-# Leetcode-150
-LeetCode Interview 150
+# Leetcode
+
+Leetcode DSA
