@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12f89483-ad9b-4c4e-8777-1734d9a9d941" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/InvertBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/MaximumDepthOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/slidingWindow/LongestSubStringWithoutRepeatingChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/slidingWindow/MinimumSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/slidingWindow/SubstringWithConcatenationOfAllWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/interview150/binaryTree/InvertBinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/interview150/binaryTree/MaximumDepthOfABinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/interview150/binaryTree/SameTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/interview150/binaryTree/SymmetricTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LeetCode-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/LeetCode-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2xM4JMYshUnQu0710sqIOQNhI9m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LongestSubStringWithoutRepeatingChars.executor": "Run",
+    "Application.MinimumSizeSubarraySum.executor": "Run",
+    "Application.SubstringWithConcatenationOfAllWords.executor": "Run",
+    "JUnit.InvertBinaryTreeTest.executor": "Run",
+    "JUnit.InvertBinaryTreeTest.testBalancedTreeWithHeightOne.executor": "Run",
+    "JUnit.InvertBinaryTreeTest.testBalancedTreeWithHeightTwo.executor": "Run",
+    "JUnit.InvertBinaryTreeTest.testNullNode.executor": "Run",
+    "JUnit.InvertBinaryTreeTest.testSingleElementTree.executor": "Run",
+    "JUnit.InvertBinaryTreeTest.testUnbalancedTreeWithHeightOne.executor": "Run",
+    "JUnit.InvertBinaryTreeTest.testUnbalancedTreeWithHeightTwo.executor": "Run",
+    "JUnit.MaximumDepthOfABinaryTreeTest.executor": "Run",
+    "JUnit.SameTreeTest.executor": "Run",
+    "JUnit.SameTreeTest.testNullRoots.executor": "Run",
+    "JUnit.SameTreeTest.testOneNull.executor": "Run",
+    "JUnit.SymmetricTreeTest.executor": "Run",
+    "JUnit.SymmetricTreeTest.testAsymmetricTreeOfHeightTwo.executor": "Run",
+    "JUnit.SymmetricTreeTest.testAsymmetricUnbalancedTreeOfHeightOne.executor": "Run",
+    "JUnit.SymmetricTreeTest.testBalancedTreeOfHeightOne.executor": "Run",
+    "JUnit.SymmetricTreeTest.testNullNode.executor": "Run",
+    "JUnit.SymmetricTreeTest.testSingleNode.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/laasy/OneDrive/Documents/GitHub/Leetcode",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Markdown"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laasy\OneDrive\Documents\GitHub\Leetcode" />
+      <recent name="C:\Users\laasy\OneDrive\Documents\GitHub\Leetcode-150" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laasy\OneDrive\Documents\GitHub\Leetcode-150\src\main\java" />
+      <recent name="C:\Users\laasy\OneDrive\Documents\GitHub\Leetcode-150" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SymmetricTreeTest.testSymmetricBalancedTreeOfHeightTwo">
+    <configuration name="SymmetricTreeTest.testAsymmetricBalancedTreeOfHeightOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview150.binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
+      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
+      <option name="METHOD_NAME" value="testAsymmetricBalancedTreeOfHeightOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SymmetricTreeTest.testAsymmetricBalancedTreeOfHeightTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview150.binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
+      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
+      <option name="METHOD_NAME" value="testAsymmetricBalancedTreeOfHeightTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SymmetricTreeTest.testAsymmetricUnbalancedTreeOfHeightTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview150.binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
+      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
+      <option name="METHOD_NAME" value="testAsymmetricUnbalancedTreeOfHeightTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SymmetricTreeTest.testSymmetricBalancedTreeOfHeightOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview150.binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
+      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
+      <option name="METHOD_NAME" value="testSymmetricBalancedTreeOfHeightOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SymmetricTreeTest.testSymmetricBalancedTreeOfHeightTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview150.binaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
+      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
+      <option name="METHOD_NAME" value="testSymmetricBalancedTreeOfHeightTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DSA" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SymmetricTreeTest.testSymmetricBalancedTreeOfHeightTwo" />
+        <item itemvalue="JUnit.SymmetricTreeTest.testAsymmetricBalancedTreeOfHeightTwo" />
+        <item itemvalue="JUnit.SymmetricTreeTest.testAsymmetricBalancedTreeOfHeightOne" />
+        <item itemvalue="JUnit.SymmetricTreeTest.testSymmetricBalancedTreeOfHeightOne" />
+        <item itemvalue="JUnit.SymmetricTreeTest.testAsymmetricUnbalancedTreeOfHeightTwo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12f89483-ad9b-4c4e-8777-1734d9a9d941" name="Changes" comment="" />
+      <created>1747734540005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747734540005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
