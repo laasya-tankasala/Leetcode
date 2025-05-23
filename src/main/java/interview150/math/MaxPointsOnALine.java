@@ -10,7 +10,7 @@ import java.util.Map;
     Constraints:
     1 <= points.length <= 300
     points[i].length == 2
-    -104 <= xi, yi <= 104
+    -10^4 <= xi, yi <= 10^4
     All the points are unique.
 
     @link https://leetcode.com/problems/max-points-on-a-line/
