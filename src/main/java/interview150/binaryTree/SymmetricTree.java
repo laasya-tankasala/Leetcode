@@ -13,6 +13,15 @@ import com.sun.source.tree.Tree;
  */
 public class SymmetricTree {
 
+
+    /*
+        Using recursion,
+        time O(n) -
+        visiting every node exactly once.
+        space O(h) -
+        where h is the height of the tree.
+        recursion calls stored in the stack.
+     */
     public boolean isSymmetric(TreeNode root) {
 
         if(root == null)
