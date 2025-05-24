@@ -11,7 +11,7 @@ package interview150.math;
     0 <= digits[i] <= 9
     digits does not contain any leading 0's.
 
-    @link https://leetcode.com/problems/plus-one/
+    https://leetcode.com/problems/plus-one/
  */
 public class PlusOne {
 

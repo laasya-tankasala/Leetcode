@@ -3,7 +3,7 @@ package interview150.math;
 /*
     Given an integer x, return true if x is a palindrome, and false otherwise.
 
-    @link https://leetcode.com/problems/palindrome-number/
+    https://leetcode.com/problems/palindrome-number/
 */
 public class PalindromeNumber {
 

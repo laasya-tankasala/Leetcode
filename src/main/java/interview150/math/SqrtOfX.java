@@ -8,7 +8,7 @@ package interview150.math;
     Constraints:
     x is a non-negative integer.
 
-    @link https://leetcode.com/problems/sqrtx/
+    https://leetcode.com/problems/sqrtx/
 */
 public class SqrtOfX {
 
