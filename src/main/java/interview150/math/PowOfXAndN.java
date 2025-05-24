@@ -10,7 +10,7 @@ package interview150.math;
     Either x is not zero or n > 0.
     -104 <= xn <= 104
 
-    @link https://leetcode.com/problems/powx-n/
+    https://leetcode.com/problems/powx-n/
  */
 public class PowOfXAndN {
 

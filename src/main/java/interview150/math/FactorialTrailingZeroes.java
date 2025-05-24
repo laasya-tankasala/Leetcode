@@ -7,7 +7,7 @@ package interview150.math;
     Constraints:
     0 <= n <= 10^4
 
-    @link https://leetcode.com/problems/factorial-trailing-zeroes/
+    https://leetcode.com/problems/factorial-trailing-zeroes/
  */
 public class FactorialTrailingZeroes {
 
