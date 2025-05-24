@@ -13,7 +13,7 @@ import java.util.Map;
     -10^4 <= xi, yi <= 10^4
     All the points are unique.
 
-    @link https://leetcode.com/problems/max-points-on-a-line/
+    https://leetcode.com/problems/max-points-on-a-line/
  */
 public class MaxPointsOnALine {
 
