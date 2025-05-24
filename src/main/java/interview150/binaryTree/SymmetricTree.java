@@ -9,7 +9,7 @@ import com.sun.source.tree.Tree;
     The number of nodes in the tree is in the range [1, 1000].
     -100 <= Node.val <= 100
 
-    @link https://leetcode.com/problems/symmetric-tree/
+    https://leetcode.com/problems/symmetric-tree/
  */
 public class SymmetricTree {
 

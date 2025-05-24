@@ -9,7 +9,7 @@ package interview150.binaryTree;
     The number of nodes in the tree is in the range [0, 100].
     -100 <= Node.val <= 100
 
-    @link https://leetcode.com/problems/invert-binary-tree/
+    https://leetcode.com/problems/invert-binary-tree/
  */
 public class InvertBinaryTree {
 

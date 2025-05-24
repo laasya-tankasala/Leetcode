@@ -8,7 +8,7 @@ package interview150.binaryTree;
     The number of nodes in both trees is in the range [0, 100].
     -10^4 <= Node.val <= 10^4
 
-    @link https://leetcode.com/problems/same-tree/
+    https://leetcode.com/problems/same-tree/
  */
 public class SameTree {
     public boolean isSameTree(TreeNode p, TreeNode q) {
