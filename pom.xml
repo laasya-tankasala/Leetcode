@@ -65,6 +65,8 @@
 				<version>3.2.5</version>
 				<configuration>
 					<useModulePath>false</useModulePath>
+					<argLine>-XX:+EnableDynamicAgentLoading</argLine>
+<!--					<argLine>@{argLine} -javaagent:/Users/laasyat/.m2/repository/org/mockito/mockito-core/5.12.0/mockito-core-5.12.0.jar</argLine>-->
 				</configuration>
 			</plugin>
 		</plugins>

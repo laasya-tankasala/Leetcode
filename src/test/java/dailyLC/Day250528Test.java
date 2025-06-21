@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Day280525Test {
+public class Day250528Test {
 
-    Day280525 obj = new Day280525();
+    Day250528 obj = new Day250528();
 
     @Test
     void testBasicCase() {

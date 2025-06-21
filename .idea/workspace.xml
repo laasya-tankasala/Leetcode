@@ -5,24 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12f89483-ad9b-4c4e-8777-1734d9a9d941" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/MaximumDepthOfABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/binaryTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/slidingWindow/LongestSubStringWithoutRepeatingChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/slidingWindow/MinimumSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview150/slidingWindow/SubstringWithConcatenationOfAllWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview150/binaryTree/InvertBinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview150/binaryTree/MaximumDepthOfABinaryTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview150/binaryTree/SameTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/interview150/binaryTree/SymmetricTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dailyLC/Day180625.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/LinkedListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/RemoveLinkedListElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dailyLC/Day180625Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/linkedList/IntersectionOfTwoLinkedListsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/linkedList/RemoveDuplicatesFromSortedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/linkedList/RemoveLinkedListElementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/linkedList/ReverseLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LeetCode-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/LeetCode-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview150/binaryTree/ConstructBTFromPreAndIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview150/math/MaxPointsOnALine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview150/math/MaxPointsOnALine.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,12 @@
     "Application.LongestSubStringWithoutRepeatingChars.executor": "Run",
     "Application.MinimumSizeSubarraySum.executor": "Run",
     "Application.SubstringWithConcatenationOfAllWords.executor": "Run",
+    "JUnit.Day180625Test.executor": "Run",
+    "JUnit.Day180625Test.testValidDivision.executor": "Run",
+    "JUnit.Day280525Test.executor": "Run",
+    "JUnit.IntersectionOfTwoLinkedListsTest.executor": "Run",
+    "JUnit.IntersectionOfTwoLinkedListsTest.testIntersectionAtNode.executor": "Run",
+    "JUnit.IntersectionOfTwoLinkedListsTest.testSimilarSegmentsAsTheCommon.executor": "Run",
     "JUnit.InvertBinaryTreeTest.executor": "Run",
     "JUnit.InvertBinaryTreeTest.testBalancedTreeWithHeightOne.executor": "Run",
     "JUnit.InvertBinaryTreeTest.testBalancedTreeWithHeightTwo.executor": "Run",
@@ -70,6 +75,14 @@
     "JUnit.InvertBinaryTreeTest.testUnbalancedTreeWithHeightOne.executor": "Run",
     "JUnit.InvertBinaryTreeTest.testUnbalancedTreeWithHeightTwo.executor": "Run",
     "JUnit.MaximumDepthOfABinaryTreeTest.executor": "Run",
+    "JUnit.RemoveDuplicatesFromSortedListTest.executor": "Run",
+    "JUnit.RemoveDuplicatesFromSortedListTest.testDuplicatesList.executor": "Run",
+    "JUnit.RemoveDuplicatesFromSortedListTest.testEmptyLinkedList.executor": "Run",
+    "JUnit.RemoveDuplicatesFromSortedListTest.testNoDuplicates.executor": "Run",
+    "JUnit.RemoveDuplicatesFromSortedListTest.testSingleElementLinkedList.executor": "Run",
+    "JUnit.RemoveLinkedListElementsTest.executor": "Run",
+    "JUnit.RemoveLinkedListElementsTest.testAllValElements.executor": "Run",
+    "JUnit.RemoveLinkedListElementsTest.valAtTail.executor": "Debug",
     "JUnit.SameTreeTest.executor": "Run",
     "JUnit.SameTreeTest.testNullRoots.executor": "Run",
     "JUnit.SameTreeTest.testOneNull.executor": "Run",
@@ -81,6 +94,8 @@
     "JUnit.SymmetricTreeTest.testSingleNode.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/laasy/OneDrive/Documents/GitHub/Leetcode",
@@ -99,83 +114,84 @@
       <recent name="C:\Users\laasy\OneDrive\Documents\GitHub\Leetcode-150\src\main\java" />
       <recent name="C:\Users\laasy\OneDrive\Documents\GitHub\Leetcode-150" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="linkedList" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.SymmetricTreeTest.testSymmetricBalancedTreeOfHeightTwo">
-    <configuration name="SymmetricTreeTest.testAsymmetricBalancedTreeOfHeightOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day280525Test">
+    <configuration name="Day280525Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview150.binaryTree.*" />
+          <option name="PATTERN" value="dailyLC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
-      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
-      <option name="METHOD_NAME" value="testAsymmetricBalancedTreeOfHeightOne" />
+      <option name="PACKAGE_NAME" value="dailyLC" />
+      <option name="MAIN_CLASS_NAME" value="dailyLC.Day280525Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntersectionOfTwoLinkedListsTest.testSimilarSegmentsAsTheCommon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="linkedList" />
+      <option name="MAIN_CLASS_NAME" value="linkedList.IntersectionOfTwoLinkedListsTest" />
+      <option name="METHOD_NAME" value="testSimilarSegmentsAsTheCommon" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SymmetricTreeTest.testAsymmetricBalancedTreeOfHeightTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveLinkedListElementsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview150.binaryTree.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
-      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
-      <option name="METHOD_NAME" value="testAsymmetricBalancedTreeOfHeightTwo" />
+      <option name="PACKAGE_NAME" value="linkedList" />
+      <option name="MAIN_CLASS_NAME" value="linkedList.RemoveLinkedListElementsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveLinkedListElementsTest.testAllValElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="linkedList" />
+      <option name="MAIN_CLASS_NAME" value="linkedList.RemoveLinkedListElementsTest" />
+      <option name="METHOD_NAME" value="testAllValElements" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SymmetricTreeTest.testAsymmetricUnbalancedTreeOfHeightTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveLinkedListElementsTest.valAtTail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview150.binaryTree.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
-      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
-      <option name="METHOD_NAME" value="testAsymmetricUnbalancedTreeOfHeightTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SymmetricTreeTest.testSymmetricBalancedTreeOfHeightOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview150.binaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
-      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
-      <option name="METHOD_NAME" value="testSymmetricBalancedTreeOfHeightOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SymmetricTreeTest.testSymmetricBalancedTreeOfHeightTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview150.binaryTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="interview150.binaryTree" />
-      <option name="MAIN_CLASS_NAME" value="interview150.binaryTree.SymmetricTreeTest" />
-      <option name="METHOD_NAME" value="testSymmetricBalancedTreeOfHeightTwo" />
+      <option name="PACKAGE_NAME" value="linkedList" />
+      <option name="MAIN_CLASS_NAME" value="linkedList.RemoveLinkedListElementsTest" />
+      <option name="METHOD_NAME" value="valAtTail" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -194,22 +210,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.Day280525Test" />
+      <item itemvalue="JUnit.IntersectionOfTwoLinkedListsTest.testSimilarSegmentsAsTheCommon" />
+      <item itemvalue="JUnit.RemoveLinkedListElementsTest" />
+      <item itemvalue="JUnit.RemoveLinkedListElementsTest.testAllValElements" />
+      <item itemvalue="JUnit.RemoveLinkedListElementsTest.valAtTail" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SymmetricTreeTest.testSymmetricBalancedTreeOfHeightTwo" />
-        <item itemvalue="JUnit.SymmetricTreeTest.testAsymmetricBalancedTreeOfHeightTwo" />
-        <item itemvalue="JUnit.SymmetricTreeTest.testAsymmetricBalancedTreeOfHeightOne" />
-        <item itemvalue="JUnit.SymmetricTreeTest.testSymmetricBalancedTreeOfHeightOne" />
-        <item itemvalue="JUnit.SymmetricTreeTest.testAsymmetricUnbalancedTreeOfHeightTwo" />
+        <item itemvalue="JUnit.Day280525Test" />
+        <item itemvalue="JUnit.RemoveLinkedListElementsTest.valAtTail" />
+        <item itemvalue="JUnit.RemoveLinkedListElementsTest.testAllValElements" />
+        <item itemvalue="JUnit.RemoveLinkedListElementsTest" />
+        <item itemvalue="JUnit.IntersectionOfTwoLinkedListsTest.testSimilarSegmentsAsTheCommon" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -232,5 +248,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/linkedList/LinkedListUtils.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

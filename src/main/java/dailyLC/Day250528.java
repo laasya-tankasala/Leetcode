@@ -14,7 +14,7 @@ package dailyLC;
     https://leetcode.com/problems/divisible-and-non-divisible-sums-difference
 
  */
-public class Day280525 {
+public class Day250528 {
 
     /*
         the idea is to calculate the total sum of n numbers using n(n+1)/2
